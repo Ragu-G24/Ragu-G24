@@ -68,7 +68,7 @@ I enjoy turning complex problems into simple, user-friendly solutions.
 - Business logic implementation  
 
 ---
-
+<!-- 
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -86,7 +86,7 @@ I enjoy turning complex problems into simple, user-friendly solutions.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" />
 </p>
-
+-->
 ---
 
 ## 🌐 Connect With Me
